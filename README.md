@@ -73,14 +73,29 @@ Here’s a bit of what I’ve been working on.
 # 📌 [Mehany Express](https://play.google.com/store/apps/details?id=com.aait.mehany_express&hl=en_US)
 [Google Play](https://play.google.com/store/apps/details?id=com.aait.mehany_express&hl=en_US)
 
+** I participated in this application with a team and particularly contributed to the order and more  flows. **
+
 | Section | Details |
 |---------|---------|
 | **🎯 SubTitle** | On-demand Maintenance. |
 | **✏️ Description** |  Mehany Express provides expert, on-demand maintenance for plumbing, electricity, AC, and cooling with easy booking and transparent pricing. |
 | **🛠️ Tech Used** |Kotlin · Modularization · MyFatoorah · Socket IO · Clean Architecture · Retrofit · Hilt · MVVM. |
 | 🧰 Technologies | · Implemented MVVM + Clean architecture using Hilt for dependency injection and Retrofit for API calls · Integrated MyFatoorah payment gateway for secure transactions · Utilized Socket.IO for real-time communication and live updates · Applied modularization to separate features and improve scalability · Used Kotlin Coroutines for reactive data binding and asynchronous operations. |
-
 ---
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Mehany%20Express/1.webp" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Mehany%20Express/2.webp" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Mehany%20Express/3.webp" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Mehany%20Express/4.webp" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+</div>
+</div>
+
+--- 
 
 # 📌 [DIVANO]()
 
@@ -102,4 +117,30 @@ Here’s a bit of what I’ve been working on.
   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/DIVANO/1242_2688_4.imageset/1242_2688_4.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
 </div>
 </div>
+
+---
+
+# 📌 [Alexon Resturant (Company Product)]()
+
+| Section | Details |
+|---------|---------|
+| **🎯 SubTitle** | E-Commerce. |
+| **✏️ Description** | Developed a restaurant booking app for a newly launched company, allowing users to browse restaurants and reserve tables. Integrated Amazon Pay Fort for secure online payments and seamless booking experiences. |
+---
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(19).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(19).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(18).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(18).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(16).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(16).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(14).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(14).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(15).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(15).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(17).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(17).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+</div>
+</div>
+
+---
 
