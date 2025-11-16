@@ -82,8 +82,8 @@ Here’s a bit of what I’ve been working on.
 
 ---
 
-# 📌 [DIVANO](https://apps.apple.com/eg/app/divano/%20%20id6448907367)
-https://apps.apple.com/eg/app/divano/%20%20id6448907367
+# 📌 [DIVANO]()
+
  
 | Section | Details |
 |---------|---------|
