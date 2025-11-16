@@ -78,13 +78,7 @@ Here’s a bit of what I’ve been working on.
 | **🎯 SubTitle** | On-demand Maintenance. |
 | **✏️ Description** |  Mehany Express provides expert, on-demand maintenance for plumbing, electricity, AC, and cooling with easy booking and transparent pricing. |
 | **🛠️ Tech Used** |Kotlin · Modularization · MyFatoorah · Socket IO · Clean Architecture · Retrofit · Hilt · MVVM. |
-| 🧰 Technologies | - Implemented MVVM + Clean architecture using Hilt for dependency injection and Retrofit for API calls. 
- - Integrated MyFatoorah payment gateway for secure transactions. 
- - Utilized Socket.IO for real-time communication and live updates. 
- - Applied modularization to separate features and improve scalability. 
- - Used Kotlin Coroutines for reactive data binding and asynchronous operations. 
- - Added Lottie for custom animations and onboarding screens (compatible with Android via Lottie-Android). 
- - Implemented UI sharing features with Android's Intent system for image export and sharing. |
+| 🧰 Technologies | · Implemented MVVM + Clean architecture using Hilt for dependency injection and Retrofit for API calls · Integrated MyFatoorah payment gateway for secure transactions · Utilized Socket.IO for real-time communication and live updates · Applied modularization to separate features and improve scalability · Used Kotlin Coroutines for reactive data binding and asynchronous operations · Added Lottie for custom animations and onboarding screens (compatible with Android via Lottie-Android) · Implemented UI sharing features with Android's Intent system for image export and sharing. |
 
 ---
 
