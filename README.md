@@ -97,6 +97,33 @@ Here’s a bit of what I’ve been working on.
 
 ---
 
+# 📌 [Yalla Ghaseel](https://play.google.com/store/apps/details?id=com.freelance.yalla_ghaseel&hl=ar)
+[Google Play](https://play.google.com/store/apps/details?id=com.freelance.yalla_ghaseel&hl=ar)
+
+| Section | Details |
+|---------|---------|
+| **🎯 SubTitle** | Car Wash. |
+| **✏️ Description** |  Yalla Ghaseel is a mobile car wash company dedicated to providing exceptional car careservices in the UAE. |
+| **🛠️ Tech Used** |Kotlin · Modularization · Paging3 · ExoPlayer3 · Clean Architecture · Retrofit · Hilt · MVVM. |
+| 🧰 Technologies | · Implemented MVVM + Clean Architecture using Hilt for dependency injection· Integrated Retrofit with Kotlin Coroutines for API calls and reactive data flow
+· Used Paging3 for efficient, lazy-loaded pagination · Implemented media playback with ExoPlayer3 · Applied feature-based modularization for better scalability and maintainability. |
+---
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Mehany%20Express/1.webp" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Mehany%20Express/2.webp" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Mehany%20Express/3.webp" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Mehany%20Express/4.webp" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+</div>
+</div>
+
+---
+
+
 # 📌 [Tam (Client - Provider)]()
 
 | Section | Details |
