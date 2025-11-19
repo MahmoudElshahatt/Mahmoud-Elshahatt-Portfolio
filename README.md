@@ -105,8 +105,7 @@ Here’s a bit of what I’ve been working on.
 | **🎯 SubTitle** | Car Wash. |
 | **✏️ Description** |  Yalla Ghaseel is a mobile car wash company dedicated to providing exceptional car careservices in the UAE. |
 | **🛠️ Tech Used** |Kotlin · Modularization · Paging3 · ExoPlayer3 · Clean Architecture · Retrofit · Hilt · MVVM. |
-| 🧰 Technologies | · Implemented MVVM + Clean Architecture using Hilt for dependency injection· Integrated Retrofit with Kotlin Coroutines for API calls and reactive data flow
-· Used Paging3 for efficient, lazy-loaded pagination · Implemented media playback with ExoPlayer3 · Applied feature-based modularization for better scalability and maintainability. |
+| 🧰 Technologies | · Implemented MVVM + Clean Architecture using Hilt for dependency injection· Integrated Retrofit with Kotlin Coroutines for API calls and reactive data flow · Used Paging3 for efficient, lazy-loaded pagination · Implemented media playback with ExoPlayer3 · Applied feature-based modularization for better scalability and maintainability. |
 ---
 
 <div align="center">
