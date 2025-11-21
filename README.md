@@ -1,7 +1,7 @@
 # Mahmoud Elshahatt — Android Developer Portfolio
 
 👋 Hi! I’m Mahmoud Elshahatt — Android Developer building pixel-perfect, performant, and maintainable apps using modern Android stack (Kotlin, Jetpack Compose, Clean Architecture).
-I have a Bachelor's degree in Computer Science and Engineering from Mansoura University (2024). I’m driven by the desire to continuously grow and contribute to impactful products.
+I have a Bachelor's degree in Computer Science and Engineering from Mansoura University (2024). 
 
 
 # 🧩 Tech Stack & Experience Summary
