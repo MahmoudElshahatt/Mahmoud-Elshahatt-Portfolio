@@ -97,6 +97,51 @@ Here’s a bit of what I’ve been working on.
 
 ---
 
+# 📌 [CarHub (Client - Provider)]()
+
+[Client-Google Play](https://play.google.com/store/apps/details?id=com.aait.car_hub)
+
+[Provider-Google Play](https://play.google.com/store/apps/details?id=com.aait.car_hub_provider)
+
+| Section | Details |
+|---------|---------|
+| **🎯 SubTitle** | On-demand Car Wash. |
+| **✏️ Description** | Carhub allows you to easily book car services, choose your preferred provider, and schedule at your convenience. With access to ratings and details, you can make informed decisions and enjoy seamless car care anytime, anywhere. |
+---
+# Client App
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub/1.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub/2.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub/3.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub/4.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub/5.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub/6.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+</div>
+</div>
+
+# Provider App
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/1.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/2.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/3.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/4.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/5.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/6.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+</div>
+</div>
+
+---
+
 # 📌 [Yalla Ghaseel](https://play.google.com/store/apps/details?id=com.freelance.yalla_ghaseel&hl=ar)
 [Google Play](https://play.google.com/store/apps/details?id=com.freelance.yalla_ghaseel&hl=ar)
 
@@ -121,7 +166,6 @@ Here’s a bit of what I’ve been working on.
 </div>
 
 ---
-
 
 # 📌 [Tam (Client - Provider)]()
 
