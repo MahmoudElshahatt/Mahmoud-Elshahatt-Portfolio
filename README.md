@@ -279,6 +279,33 @@ Here’s a bit of what I’ve been working on.
 </div>
 
 ---
+
+# 📌 [IncontiSense](https://github.com/MahmoudElshahatt/IncontiSense-App)
+
+| Section | Details |
+|---------|---------|
+| **🎯 SubTitle** | Medical Services. |
+| **✏️ Description** | The app is designed for self-management of stress urinary incontinence in women. A multi-module Android app using Clean Architecture, ensuring modular design and improved user experience through a modern and intuitive interface. |
+| **🛠️ Tech Used** |Kotlin · Modularization · Alarm Manager · Clean Architecture · Retrofit · Hilt · MVVM. |
+---
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Incontisence/1.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Incontisence/2.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Incontisence/3.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Incontisence/4.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Incontisence/5.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Incontisence/6.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Incontisence/7.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Incontisence/8.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+</div>
+</div>
+
+---
 # 📌 [DIVANO]()
 
  
