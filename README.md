@@ -97,6 +97,56 @@ Here’s a bit of what I’ve been working on.
 
 ---
 
+# 📌 [Easy Wash KSA (Client - Delegate - Provider)]()
+
+[Client-Google Play](https://play.google.com/store/apps/details?id=com.aait.elaghaerUser)
+
+[Provider-Google Play](https://play.google.com/store/apps/details?id=com.aait.elaghaerProvider)
+
+[Delegate-Google Play](https://play.google.com/store/apps/details?id=com.aait.elaghaerDelegate)
+
+| Section | Details |
+|---------|---------|
+| **🎯 SubTitle** | Clean Services. |
+| **✏️ Description** | Easy Wash KSA is a flexible laundry service (regular and express) with convenient pickup/delivery options, secure in-app payment, and 24/7 customer support. Diverse services (washing, ironing, dry cleaning, upholstery) available in select areas with ongoing expansion. |
+| **🛠️ Tech Used** |Kotlin · Modularization · Paging 3 · MyFatoorah · Socket IO · Clean Architecture · Retrofit · Hilt · MVVM. |
+---
+# Client App
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash/1.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash/2.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash/3.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash/4.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash/5.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash/6.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash/7.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash/8.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+</div>
+</div>
+
+# Provider App
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/1.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/2.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/3.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/4.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/5.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Car%20Hub%20Provider/6.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+</div>
+</div>
+
+---
+
 # 📌 [CarHub (Client - Provider)]()
 
 [Client-Google Play](https://play.google.com/store/apps/details?id=com.aait.car_hub)
