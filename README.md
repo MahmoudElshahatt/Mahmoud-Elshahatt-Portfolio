@@ -107,6 +107,7 @@ Here’s a bit of what I’ve been working on.
 |---------|---------|
 | **🎯 SubTitle** | On-demand Car Wash. |
 | **✏️ Description** | Carhub allows you to easily book car services, choose your preferred provider, and schedule at your convenience. With access to ratings and details, you can make informed decisions and enjoy seamless car care anytime, anywhere. |
+| **🛠️ Tech Used** |Kotlin · Modularization · MyFatoorah · Socket IO · Clean Architecture · Retrofit · Hilt · MVVM. |
 ---
 # Client App
 
